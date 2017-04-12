@@ -1,0 +1,13 @@
+name: jet
+version: 0.1.0
+
+authors:
+  - Joshua Kidd <kidd.josh.343@gmail.com>
+
+targets:
+  jet:
+    main: src/jet.cr
+
+crystal: 0.21.1
+
+license: MIT
